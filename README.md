@@ -17,7 +17,7 @@
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/aqib-jawed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="www.linkedin.com/in/aqib-jawed-6ta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Akki-Aqib" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
@@ -53,12 +53,6 @@
 - **[EduNet](https://github.com/Akki-Aqib/edunet-ai)** – AI-powered educational platform using **Next.js, OpenAI API, Supabase, Tailwind CSS**.  
 
 ---
-
-### ⚡ Fun Coding GIFs
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" width="300"/>
-</p>
 
 ---
 
