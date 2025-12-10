@@ -1,66 +1,113 @@
-<h1 align="center">Hi 👋, I'm Aqib</h1>
-<h3 align="center">A passionate Full-Stack Developer | AI Enthusiast | Problem Solver</h3>
+<!-- HERO -->
+<h1 align="center">
+  👋 Hey, I'm <b>Aqib</b> — B.Tech CSE • Web Developer • Creator
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="40%" alt="coding-gif"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=0E75FF&width=780&lines=I+build+clean+web+experiences;Learning+DAA+and+OS;Open+to+collab+%F0%9F%91%8B" alt="Typing SVG"/>
+</p>
+
+<!-- MAIN CODING GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding">
+</p>
+
+<p align="center">
+  <a href="https://github.com/AqibJawed" target="_blank">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=AqibJawed&color=0e75ff"/>
+  </a>
 </p>
 
 ---
 
-### 🌱 About Me
-- 🔭 I’m currently building projects using **Next.js & Supabase**  
-- 💬 Ask me about **Web Development, Full-Stack Development, AI Integration, and Node.js**  
-- 📫 Reach me at **akkijawed7@gmail.com**  
-- ⚡ Fun fact: I love building **smart AI-based projects** and exploring innovative tech solutions  
+## 👨‍💻 About Me  
+<p align="right">
+  <img src="https://media.giphy.com/media/UKrbf6XtlvFik/giphy.gif" width="180" alt="developer working">
+</p>
+
+- 🎓 3rd-year B.Tech CSE  
+- 💡 Building smart full-stack apps (Next.js + Supabase)  
+- 🔭 Currently developing a Local Services Booking Platform  
+- 🌱 Learning DAA, OS, clean UI animations  
+- 🎬 I also create cricket highlights & short-form content  
 
 ---
 
-### 🌐 Connect with me
+## 🛠️ Skills & Tools  
+<p align="left">
+  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHU/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/iigp4VNfVXz1e/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60">
+</p>
+
+_HTML • CSS • JavaScript • React • Next.js • Supabase • GitHub_
+
+---
+
+## ⭐ Featured Projects  
+<p align="right">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="200">
+</p>
+
+- **Local Service Provider Platform** – Next.js + Supabase  
+- **Automata Generator** – Natural language → DFA/NFA  
+- **ShelfSense** – Smart Fridge UI + recipe generation  
+- **Appointment Scheduler** – Custom animations + slot booking  
+
+---
+
+## 📈 GitHub Stats  
 <p align="center">
-  <a href="www.linkedin.com/in/aqib-jawed-6ta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Akki-Aqib" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AqibJawed&show_icons=true&theme=default" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqibJawed&layout=compact" height="180"/>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+## 🎨 Developer Vibes  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="thinking code">
 </p>
 
 ---
 
-### 💻 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqib7&show_icons=true&theme=github_dark&hide_border=true" alt="Aqib's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqib7&theme=github-dark-blue&hide_border=true" alt="Aqib's GitHub Streak"/>
+## 🧭 What I'm Learning  
+<p align="right">
+  <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="160">
 </p>
 
----
-
-### 🚀 Projects I'm Proud Of
-- **[Smart Payment Dashboard](https://github.com/Akki-Aqib/smart-payment-dashboard)** – Real-time finance analytics web app using **React.js, Node.js, MongoDB**.  
-- **[Secure Online Bill Payment System](https://github.com/Akki-Aqib/secure-bill-payment)** – Full-stack payment platform with **Next.js, PostgreSQL, Stripe API**.  
-- **[EduNet](https://github.com/Akki-Aqib/edunet-ai)** – AI-powered educational platform using **Next.js, OpenAI API, Supabase, Tailwind CSS**.  
+- Optimizing algorithms   
+- System Design And Cryptography
+- Advanced JavaScript patterns  
+- Building AI-assisted features  
 
 ---
 
----
-
-### 📝 Quote
-> “Code. Learn. Contribute. Repeat.”  
-
----
-
-<p align="center">
-  <i>Let's build something amazing together!</i>
+## 📫 Contact Me  
+<p align="left">
+  <img src="https://media.giphy.com/media/JRfJG8oxA8V2g5fVcn/giphy.gif" width="120">
 </p>
+
+- Email: **akkijawed567@gmail.com**  
+- LinkedIn: **https://www.linkedin.com/in/aqib-jawed-6ta/**   
+- Open for collaborations, internships & freelance work  
+
+---
+
+## 🌟 Fun Fact  
+<p align="center">
+  <img src="https://media.giphy.com/media/Tf3mp9v2t7jFvJjH1N/giphy.gif" width="350">
+</p>
+
+I Can Code Anything and Everyhting
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AqibJawed&color=blue" alt="views">  
+  <br>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200">
+</div>
