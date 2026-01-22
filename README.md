@@ -1,113 +1,207 @@
-<!-- HERO -->
-<h1 align="center">
-  👋 Hey, I'm <b>Aqib</b> — B.Tech CSE • Web Developer • Creator
-</h1>
+<h1 align="center">Hi 👋, I'm Aqib Jawed</h1>
+<h3 align="center">
+Software Engineer | Full-Stack Developer | Problem Solver | Tech Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=0E75FF&width=780&lines=I+build+clean+web+experiences;Learning+DAA+and+OS;Open+to+collab+%F0%9F%91%8B" alt="Typing SVG"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
-<!-- MAIN CODING GIF -->
+---
+
+## 🧠 Professional Summary
+
+I am a **Computer Science Engineering student and Software Engineer** with strong foundations in  
+**Data Structures, Algorithms, and Full-Stack Web Development**.
+
+I enjoy **building scalable applications**, solving **complex coding problems**, and working on  
+**real-world projects** that create meaningful impact.
+
+I continuously upskill myself in modern technologies and follow **clean code practices**,  
+**performance optimization**, and **industry-standard design patterns**.
+
+---
+
+## 🎓 Education
+
+- 🎓 **B.Tech – Computer Science & Engineering**
+- 📚 Core Subjects:
+  - Data Structures & Algorithms
+  - Operating Systems
+  - Computer Networks
+  - Database Management Systems
+  - Design & Analysis of Algorithms
+  - Formal Languages & Automata Theory
+
+---
+
+## 🛠️ Technical Skills
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" />
+</p>
+
+- Java (OOP, Collections, Multithreading)
+- Python (Automation, Scripting, APIs)
+- JavaScript (ES6+, Async, DOM)
+- C / C++ (Problem Solving, Fundamentals)
+
+---
+
+### 🌐 Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+- HTML5, CSS3, Responsive Design
+- JavaScript (Vanilla + Frameworks)
+- React.js (Hooks, Components, State)
+- Next.js (SSR, API Routes)
+- Tailwind CSS & Modern UI Practices
+
+---
+
+### 🖥️ Backend & Server Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- Node.js
+- Express.js
+- RESTful APIs
+- Authentication & Authorization
+- Server-side Rendering
+
+---
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+</p>
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- Supabase (Auth, Storage, Realtime DB)
+
+---
+
+### ⚙️ Tools, DevOps & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel" />
+</p>
+
+- Git & GitHub (Version Control)
+- Linux (CLI & Basics)
+- VS Code
+- Deployment on Vercel
+- CI/CD Fundamentals
+
+---
+
+## 🧩 Problem Solving & Competitive Programming
+
+- 🟢 Solved **500+ coding problems**
+- Platforms:
+  - LeetCode
+  - CodeChef
+  - Codeforces
+
+### Strong Concepts In:
+- Arrays & Strings
+- Recursion & Backtracking
+- Linked Lists, Stacks & Queues
+- Trees & Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Sliding Window & Two Pointer Techniques
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360"/>
+</p>
+
+---
+
+## 🚀 Major Projects
+
+### 🔹 CodePrep AI – Smart Interview Preparation Platform
+**Description:**
+- AI-powered mock interviews
+- Coding & behavioral feedback
+- LeetCode integration
+- Progress tracking dashboard
+
+**Tech Stack:**  
+`Next.js` `Supabase` `OpenAI API` `Tailwind CSS`
+
+---
+
+### 🔹 NutriPal – AI Diet & Health Recommendation System
+**Description:**
+- Personalized diet plans using AI
+- Health-focused real-world use case
+- User-friendly interactive UI
+
+**Tech Stack:**  
+`Next.js` `API Routes` `AI Models` `Modern UI`
+
+---
+
+### 🔹 Local Service Hiring Platform
+**Description:**
+- Hire nearby electricians, plumbers & laborers
+- Location-based filtering
+- Ratings & reviews system
+
+**Tech Stack:**  
+`Next.js` `Supabase` `PostgreSQL` `Vercel`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/AqibJawed" target="_blank">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=AqibJawed&color=0e75ff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements & Strengths
+
+- ✅ Strong analytical & logical thinking
+- ✅ Consistent problem solver
+- ✅ Team player with clear communication
+- ✅ Passion for learning new technologies
+- ✅ Focused on clean & optimized code
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-<p align="right">
-  <img src="https://media.giphy.com/media/UKrbf6XtlvFik/giphy.gif" width="180" alt="developer working">
-</p>
-
-- 🎓 3rd-year B.Tech CSE  
-- 💡 Building smart full-stack apps (Next.js + Supabase)  
-- 🔭 Currently developing a Local Services Booking Platform  
-- 🌱 Learning DAA, OS, clean UI animations  
-- 🎬 I also create cricket highlights & short-form content  
-
----
-
-## 🛠️ Skills & Tools  
-<p align="left">
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHU/giphy.gif" width="60">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="60">
-  <img src="https://media.giphy.com/media/iigp4VNfVXz1e/giphy.gif" width="60">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60">
-</p>
-
-_HTML • CSS • JavaScript • React • Next.js • Supabase • GitHub_
-
----
-
-## ⭐ Featured Projects  
-<p align="right">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="200">
-</p>
-
-- **Local Service Provider Platform** – Next.js + Supabase  
-- **Automata Generator** – Natural language → DFA/NFA  
-- **ShelfSense** – Smart Fridge UI + recipe generation  
-- **Appointment Scheduler** – Custom animations + slot booking  
-
----
-
-## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AqibJawed&show_icons=true&theme=default" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqibJawed&layout=compact" height="180"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
 
----
-
-## 🎨 Developer Vibes  
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="thinking code">
-</p>
-
----
-
-## 🧭 What I'm Learning  
-<p align="right">
-  <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="160">
-</p>
-
-- Optimizing algorithms   
-- System Design And Cryptography
-- Advanced JavaScript patterns  
-- Building AI-assisted features  
-
----
-
-## 📫 Contact Me  
-<p align="left">
-  <img src="https://media.giphy.com/media/JRfJG8oxA8V2g5fVcn/giphy.gif" width="120">
-</p>
-
-- Email: **akkijawed567@gmail.com**  
-- LinkedIn: **https://www.linkedin.com/in/aqib-jawed-6ta/**   
-- Open for collaborations, internships & freelance work  
-
----
-
-## 🌟 Fun Fact  
-<p align="center">
-  <img src="https://media.giphy.com/media/Tf3mp9v2t7jFvJjH1N/giphy.gif" width="350">
-</p>
-
-I Can Code Anything and Everyhting
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AqibJawed&color=blue" alt="views">  
-  <br>
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200">
-</div>
+<h3 align="center">
+“First, solve the problem. Then, write the code.”
+</h3>
