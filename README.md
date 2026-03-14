@@ -171,10 +171,10 @@ I continuously upskill myself in modern technologies and follow **clean code pra
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/aqib-jawed-6ta/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:akkijawed567@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
