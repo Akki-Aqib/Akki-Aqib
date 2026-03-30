@@ -32,6 +32,7 @@ I continuously upskill myself in modern technologies and follow **clean code pra
   - Database Management Systems
   - Design & Analysis of Algorithms
   - Formal Languages & Automata Theory
+  - Introduction to Competitive Programming
 
 ---
 
